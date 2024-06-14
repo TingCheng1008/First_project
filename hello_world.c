@@ -1,6 +1,5 @@
 #include<studio.h>
 	print("test");
-}
 int add(int a, int b)
 {
 	return a+b;
