@@ -10,5 +10,7 @@ int main()
     print("Hello World");
     print("Code!");
     print("hello lope!！");
+    // 暂存的代码
+    add(1, 2);
 }
 
