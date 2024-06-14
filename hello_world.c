@@ -1,8 +1,9 @@
-
 #include<studio.h>
-void test()
-{
 	print("test");
+}
+int add(int a, int b)
+{
+	return a+b;
 }
 int main()
 {
